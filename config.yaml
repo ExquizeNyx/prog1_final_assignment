@@ -1,0 +1,3 @@
+# Example config file:
+datadir: 'data/'
+lifelines_age: 'insert path file to Participants_Aggregated_Age.txt'

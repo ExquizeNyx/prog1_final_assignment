@@ -1,6 +1,8 @@
-# Programming 1 final assignment - Author: Anna van den Broek
-For this notebook to work a python, jupyter notebook and config.yaml file is needed. 
-Create the file with key lifelines_age: <path to data>
+# Programming 1 final assignment 
+## Author: Anna van den Broek
+For this notebook to work a python, jupyter notebook and a config.yaml file is needed.<br />
+Create the config.yaml file with the key: <br />
+lifelines_age: < path to data >
 
-License:
+###### License:
 Distributed under MIT license (see license)

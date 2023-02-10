@@ -7,6 +7,18 @@ Lifelines public health dataset used in the Aletta’s Regional Year Challenge p
 ## Required software:
 This assignment requires jupyter notebook and python to be installed.
 
+###### Required modules:
+- Pandas 1.5.3
+- Numpy 1.24.2
+- Hvplot 0.8.2
+- Seaborn 0.12.2
+- Matplotlib 3.6.3
+- Bokeh 2.4.3
+- Panel 0.14.3
+- Statsmodels 0.13.5
+- Scipy 1.10.0
+
+
 ## File configuration:
 A config.yaml file is needed to load the data.<br />
 Adjust the config.yaml: <br />
